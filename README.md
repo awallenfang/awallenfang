@@ -58,6 +58,7 @@ The main experiment I am exploring with it is what can be achieved by slicing th
 
 ### Technologies I want to learn and use relatively soon:
 
+<a href="https://dotnet.microsoft.com/en-us/download" title="Dotnet"><img src="https://github.com/get-icon/geticon/raw/master/icons/dotnet.svg" alt="Dotnet" width="50px" height="50px"></a>
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="50px" height="50px"></a>
 <a href="https://www.qt.io/" title="Qt"><img src="https://github.com/get-icon/geticon/raw/master/icons/qt.svg" alt="Qt" width="50px" height="50px"></a>
 <a href="https://www.qt.io/" title="OpenCV"><img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" alt="OpenCV" width="50px" height="50px"></a>
