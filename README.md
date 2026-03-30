@@ -68,6 +68,3 @@ The main experiment I am exploring with it is what can be achieved by slicing th
 
 
 My current niche in computer science and programming is digital signal processing, as well as graphics programming. Both primarily using Rust for personal projects.
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=awallenfang&show_icons=true&theme=jolly" height="165vh"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awallenfang&layout=compact&theme=jolly" height="165vh"/>
